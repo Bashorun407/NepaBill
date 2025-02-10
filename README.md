@@ -12,3 +12,5 @@ Created two branches today. 9th January 2025.
 Deleted branch 'feature/database-connection' and added branch 'bugfix'
 1. new-feature
 2. bugfix
+
+Just added something here remotely
