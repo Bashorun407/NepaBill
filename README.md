@@ -9,3 +9,6 @@ Created two branches today. 9th January 2025.
 1. new-feature
 2. feature/database-connection
 
+Deleted branch 'feature/database-connection' and added branch 'bugfix'
+1. new-feature
+2. bugfix
