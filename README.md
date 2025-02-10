@@ -13,6 +13,7 @@ Deleted branch 'feature/database-connection' and added branch 'bugfix'
 1. new-feature
 2. bugfix
 
+Committed this sentence remotely to check the functionality of rebase.
 <<<<<<< HEAD
 Committed this locally
 =======
