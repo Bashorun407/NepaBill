@@ -13,4 +13,8 @@ Deleted branch 'feature/database-connection' and added branch 'bugfix'
 1. new-feature
 2. bugfix
 
+<<<<<<< HEAD
 Committed this locally
+=======
+Just added something here remotely
+>>>>>>> b81a0e723c44b4f2db9f90dd72a2c10dafdd8643
