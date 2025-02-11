@@ -13,7 +13,6 @@ Deleted branch 'feature/database-connection' and added branch 'bugfix'
 1. new-feature
 2. bugfix
 
-Just added this last line today, 11th February 2025
 <<<<<<< HEAD
 Committed this sentence remotely to check the functionality of rebase.
 =======
